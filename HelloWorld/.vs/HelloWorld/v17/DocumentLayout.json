@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC11C\uC724\uC2DD\\Desktop\\\uC190\uC131\uD604 \uACFC\uC81C\\data-structure-lab-2025\\HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\jbnu\\Documents\\data-structure-lab-2025\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11A6E5EB-F6E0-4370-81C7-536E2E6BF43D}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\\uC11C\uC724\uC2DD\\Desktop\\\uC190\uC131\uD604 \uACFC\uC81C\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{11A6E5EB-F6E0-4370-81C7-536E2E6BF43D}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\jbnu\\Documents\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11A6E5EB-F6E0-4370-81C7-536E2E6BF43D}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HelloWorld.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC11C\uC724\uC2DD\\Desktop\\\uC190\uC131\uD604 \uACFC\uC81C\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\jbnu\\Documents\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
-              "ToolTip": "C:\\Users\\\uC11C\uC724\uC2DD\\Desktop\\\uC190\uC131\uD604 \uACFC\uC81C\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\jbnu\\Documents\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
               "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
